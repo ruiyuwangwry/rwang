@@ -11,16 +11,19 @@ Besides "science", I am also interested in modern technologies such as machine l
 
 <br>
 <br>
-Sodium halides adsorption at water/$\alpha$-alumina(0001) interfaces <br>
+Sodium halides adsorption at water/α-alumina(0001) interfaces <br>
 <br>
 <br>
 <br>
 
-<a href="url"><img src="fig/jpcl2019.jpeg" align="left" height="137" width="141" ></a>
+<a href="url"><img src="fig/jpcl22019.jpeg" align="left" height="137" width="141" ></a>
+
 <br>
 Calculation of bulk water pKa using the SCAN functional <br>
 
-
+<br>
+<br>
+<br>
 ## Publications 
 [Link to Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=IkjmJh8AAAAJ&view_op=list_works&sortby=pubdate)
 
