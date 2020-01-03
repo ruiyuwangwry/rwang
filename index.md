@@ -1,5 +1,7 @@
 # Ruiyu Wang
 
+[Bio](#bio) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Research Projects](#research-projects) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Publications](#publications)
+
 ## Bio
 
 I am now a PhD student in Temple University. My supervisor is Dr. Eric Borguet and Dr. Vincenzo Carnevale. <br>
