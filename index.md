@@ -26,7 +26,6 @@ Besides "science", I am also interested in modern technologies such as machine l
 <br>
 <br>
 <br>
-<br>
 
 ## Publications 
 [Link to Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=IkjmJh8AAAAJ&view_op=list_works&sortby=pubdate)
