@@ -23,6 +23,7 @@ Calculation of bulk water pKa using the SCAN functional <br>
 
 <br>
 <br>
+<br>
 
 ## Publications 
 [Link to Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=IkjmJh8AAAAJ&view_op=list_works&sortby=pubdate)
@@ -36,5 +37,3 @@ Calculation of bulk water pKa using the SCAN functional <br>
 **Wang, R.**, Pan, J., Qin, M., & Guo, T., Molecularly imprinted nanocapsule mimicking phosphotriesterase for the catalytic hydrolysis of organophosphorus pesticides. European Polymer Journal 2019, 110, 1-8. [link](https://doi.org/10.1016/j.eurpolymj.2018.10.045) <br>
 ...and more.
 
-
-[Link](url) and ![Image](src)
