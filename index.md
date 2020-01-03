@@ -7,6 +7,12 @@ I am doing various types of research projects; I am focusing on water structures
 Besides "science", I am also interested in modern technologies such as machine learning and its applications, for example, how these tools and proper physics models help business analysis.
 
 ## Research Projects
+<a href="url"><img src="fig/jpcc2019.jpeg" align="left" height="245" width="392" ></a>
+Sodium halides adsorption at water/$\alpha$-alumina(0001) interfaces <br>
+
+<a href="url"><img src="fig/jpcl2019.jpeg" align="left" height="281" width="273" ></a>
+Calculation of bulk water pKa using the SCAN functional <br>
+
 
 ## Publications 
 [Link to Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=IkjmJh8AAAAJ&view_op=list_works&sortby=pubdate)
