@@ -9,15 +9,16 @@ Besides "science", I am also interested in modern technologies such as machine l
 ## Research Projects
 
 ## Publications 
-Google scholar link 
+[Google scholar link](https://scholar.google.com/citations?hl=zh-CN&user=IkjmJh8AAAAJ&view_op=list_works&sortby=pubdate)
 
 (At Temple University)<br>
 **Wang, R.**, Klein M., Carnevale V. & Borguet E. (2019) Investigation of water/solid interfaces by molecular dynamic simulations (in preparation) <br>
-**Wang, R.**, Carnevale V., Klein M. & Borguet E. First Principles Calculation of Water pKa Using the Newly Developed SCAN Functional. J. Phys. Chem. Lett. 2020, 11, 54-59. (link) <br>
-**Wang, R.**; DelloStritto, M.; Remsing, R. C.; Carnevale, V.; Klein, M. L.; Borguet, E., Sodium Halide Adsorption and Water Structure at the α-Alumina(0001)/Water Interface. J. Phys. Chem. C 2019, 123, 15618-15628. (link) <br>
+**Wang, R.**, Carnevale V., Klein M. & Borguet E. First Principles Calculation of Water pKa Using the Newly Developed SCAN Functional. J. Phys. Chem. Lett. 2020, 11, 54-59. [link](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.9b02913) <br>
+**Wang, R.**; DelloStritto, M.; Remsing, R. C.; Carnevale, V.; Klein, M. L.; Borguet, E., Sodium Halide Adsorption and Water Structure at the α-Alumina(0001)/Water Interface. J. Phys. Chem. C 2019, 123, 15618-15628. [link](https://doi.org/10.1021/acs.jpcc.9b03054) <br>
 
-(at Nankai University)<br>
-Constructing..
+(At Nankai University)<br>
+**Wang, R.**, Pan, J., Qin, M., & Guo, T., Molecularly imprinted nanocapsule mimicking phosphotriesterase for the catalytic hydrolysis of organophosphorus pesticides. European Polymer Journal 2019, 110, 1-8. [link](https://doi.org/10.1016/j.eurpolymj.2018.10.045)
+...and more.
 
 
 You can use the [editor on GitHub](https://github.com/ruiyuwangwry/water_interface/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
