@@ -2,19 +2,22 @@
 
 ## Bio
 
-I am now a PhD student in Temple University. My supervisor is Dr. Eric Borguet and Dr. Vincenzo Carnevale.
-I am doing various types of research projects; I am focusing on water structures in several enviroments, such as chemical reactions in aqueous solutions, ion adsorption at water/alumina interfaces using both classical and ab initio molecular dynamics simulations, especially free energy calculations using enhanced sampling techniques. Our team are current investigating pKa calculations, surface-solute interactions and proton/hydroxide ion behavior.  
+I am now a PhD student in Temple University. My supervisor is Dr. Eric Borguet and Dr. Vincenzo Carnevale. <br>
+I am doing various types of research projects; I am focusing on water structures in several enviroments, such as chemical reactions in aqueous solutions, ion adsorption at water/alumina interfaces using both classical and ab initio molecular dynamics simulations, especially free energy calculations using enhanced sampling techniques. Our team are current investigating pKa calculations, surface-solute interactions and proton/hydroxide ion behavior.  <br>
 Besides "science", I am also interested in modern technologies such as machine learning and its applications, for example, how these tools and proper physics models help business analysis.
 
 ## Research Projects
 
-## Publications
-Google scholar link
-(At Temple University)
+## Publications 
+Google scholar link 
 
-**Wang, R.**, Klein M., Carnevale V. & Borguet E. (2019) Investigation of water/solid interfaces by molecular dynamic simulations (in preparation)
-**Wang, R.**, Carnevale V., Klein M. & Borguet E. First Principles Calculation of Water pKa Using the Newly Developed SCAN Functional. J. Phys. Chem. Lett. 2020, 11, 54-59. (link)
-**Wang, R.**; DelloStritto, M.; Remsing, R. C.; Carnevale, V.; Klein, M. L.; Borguet, E., Sodium Halide Adsorption and Water Structure at the α-Alumina(0001)/Water Interface. J. Phys. Chem. C 2019, 123, 15618-15628. (link)
+(At Temple University)<br>
+**Wang, R.**, Klein M., Carnevale V. & Borguet E. (2019) Investigation of water/solid interfaces by molecular dynamic simulations (in preparation) <br>
+**Wang, R.**, Carnevale V., Klein M. & Borguet E. First Principles Calculation of Water pKa Using the Newly Developed SCAN Functional. J. Phys. Chem. Lett. 2020, 11, 54-59. (link) <br>
+**Wang, R.**; DelloStritto, M.; Remsing, R. C.; Carnevale, V.; Klein, M. L.; Borguet, E., Sodium Halide Adsorption and Water Structure at the α-Alumina(0001)/Water Interface. J. Phys. Chem. C 2019, 123, 15618-15628. (link) <br>
+
+(at Nankai University)<br>
+Constructing..
 
 
 You can use the [editor on GitHub](https://github.com/ruiyuwangwry/water_interface/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
