@@ -23,7 +23,7 @@ Calculation of bulk water pKa using the SCAN functional <br>
 
 <br>
 <br>
-<br>
+
 ## Publications 
 [Link to Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=IkjmJh8AAAAJ&view_op=list_works&sortby=pubdate)
 
