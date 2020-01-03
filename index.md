@@ -9,7 +9,7 @@ Besides "science", I am also interested in modern technologies such as machine l
 ## Research Projects
 
 ## Publications 
-[Google scholar link](https://scholar.google.com/citations?hl=zh-CN&user=IkjmJh8AAAAJ&view_op=list_works&sortby=pubdate)
+[Link to Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=IkjmJh8AAAAJ&view_op=list_works&sortby=pubdate)
 
 (At Temple University)<br>
 **Wang, R.**, Klein M., Carnevale V. & Borguet E. (2019) Investigation of water/solid interfaces by molecular dynamic simulations (in preparation) <br>
