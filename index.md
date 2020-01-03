@@ -8,9 +8,16 @@ Besides "science", I am also interested in modern technologies such as machine l
 
 ## Research Projects
 <a href="url"><img src="fig/jpcc2019.jpeg" align="left" height="123" width="196" ></a>
+
+<br>
+<br>
 Sodium halides adsorption at water/$\alpha$-alumina(0001) interfaces <br>
+<br>
+<br>
+<br>
 
 <a href="url"><img src="fig/jpcl2019.jpeg" align="left" height="137" width="141" ></a>
+<br>
 Calculation of bulk water pKa using the SCAN functional <br>
 
 
