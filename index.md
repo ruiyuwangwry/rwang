@@ -6,7 +6,7 @@
 
 I am now a PhD student in Temple University. My supervisors are Dr. [Eric Borguet](https://sites.temple.edu/borguet/) and Dr. [Vincenzo Carnevale](https://carnevalelab.org/). <br>
 I am doing various types of research projects; I am focusing on water structures in several enviroments, such as chemical reactions in aqueous solutions, ion adsorption at water/alumina interfaces using both classical and ab initio molecular dynamics simulations, especially free energy calculations using enhanced sampling techniques. Our team are current investigating pKa calculations, surface-solute interactions and proton/hydroxide ion behavior.  <br>
-Besides "science", I am also interested in modern technologies such as machine learning and its applications, for example, how these tools and proper physics models help business analysis. <br>
+Besides physical chemistry, I am also interested in modern technologies such as machine learning and its applications, for example, how these tools and proper physics models help business analysis. <br>
 <br>
 [Full CV](cv2020_ruiyu.pdf)
 
