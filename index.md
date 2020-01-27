@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+    <title>Ruiyu Wang</title>
+</head>
+
+<body>
 # Ruiyu Wang （王瑞雨）
 
 [Bio](#bio) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Research Projects](#research-projects) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Publications](#publications)
@@ -41,3 +48,4 @@ Besides physical chemistry, I am also interested in modern technologies such as 
 **Wang, R.**, Pan, J., Qin, M., & Guo, T., Molecularly imprinted nanocapsule mimicking phosphotriesterase for the catalytic hydrolysis of organophosphorus pesticides. _European Polymer Journal_ **2019**, 110, 1-8. [link](https://doi.org/10.1016/j.eurpolymj.2018.10.045) <br>
 ...and more.
 
+</body>
