@@ -1,5 +1,6 @@
 # Ruiyu Wang （王瑞雨）
 
+email: [tug59265@temple.edu](tug59265@temple.edu) &nbsp; &nbsp; [wangruiyuwry@gmail.com](wangruiyuwry@gmail.com) <br>
 [Bio](#bio) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Research Projects](#research-projects) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Publications](#publications)
 
 ## Bio
