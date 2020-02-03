@@ -2,7 +2,7 @@
 
 [tug59265@temple.edu](mailto:tug59265@temple.edu) (Temple U) <br>
 [wangruiyuwry@gmail.com](mailto:wangruiyuwry@gmail.com) <br>
-[3344089087@qq.com](mailto:3344089087@qq.com) (China) <br>
+[3344089087@qq.com](mailto:3344089087@qq.com) (推荐中国用户使用qq邮箱) <br>
 <br>
 [Bio](#bio) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Research Projects](#research-projects) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Publications](#publications)
 
@@ -34,7 +34,8 @@ Besides physical chemistry, I am also interested in modern technologies such as 
 <br>
 
 ## Publications 
-[Link to Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=IkjmJh8AAAAJ&view_op=list_works&sortby=pubdate)
+[Link to Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=IkjmJh8AAAAJ&view_op=list_works&sortby=pubdate) <br>
+[Link to Researchgate](https://www.researchgate.net/profile/Ruiyu_Wang2) (推荐中国用户使用)
 
 (At Temple University)<br>
 **Wang, R.**, Klein M., Carnevale V. & Borguet E. (2019) Investigation of water/solid interfaces by molecular dynamic simulations (in preparation) <br>
