@@ -15,7 +15,7 @@ Besides physical chemistry, I am also interested in modern technologies such as 
 [Full CV](cv2020_ruiyu.pdf)
 
 ## Research Projects
-<a href="url"><img src="fig/jpcc2019.jpeg" align="left" height="123" width="196" ></a>
+<img src="fig/jpcc2019.jpeg" align="left" height="123" width="196" >
 
 <br>
 <br>
@@ -24,7 +24,7 @@ Besides physical chemistry, I am also interested in modern technologies such as 
 <br>
 <br>
 
-<a href="url"><img src="fig/jpcl22019.jpeg" align="left" height="137" width="141" ></a>
+<img src="fig/jpcl22019.jpeg" align="left" height="137" width="141" >
 
 <br>
 <br>
