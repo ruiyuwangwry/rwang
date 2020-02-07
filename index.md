@@ -22,6 +22,7 @@ Besides physical chemistry, I am also interested in modern technologies such as 
 <br>
 <br>
 <br>
+<br>
 
 <img src="fig/jpcl22019.jpeg" align="left" height="137" width="141" >
 
