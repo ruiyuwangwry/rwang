@@ -20,7 +20,7 @@ Besides physical chemistry, I am also interested in modern technologies such as 
 
 <br>
 &nbsp;Sodium halides adsorption at water/α-alumina(0001) interfaces <br>
-<br>
+[link to the paper](https://doi.org/10.1021/acs.jpcc.9b03054) <br>
 <br>
 <br>
 <br>
@@ -29,7 +29,7 @@ Besides physical chemistry, I am also interested in modern technologies such as 
 
 <br>
 &nbsp;Calculation of bulk water pKa using the SCAN functional <br>
-<br>
+[link to the paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.9b02913) <br>
 <br>
 <br>
 <br>
