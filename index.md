@@ -45,5 +45,5 @@ Besides physical chemistry, I am also interested in modern technologies such as 
 
 (At Nankai University)<br>
 **Wang, R.**, Pan, J., Qin, M., & Guo, T., Molecularly imprinted nanocapsule mimicking phosphotriesterase for the catalytic hydrolysis of organophosphorus pesticides. _European Polymer Journal_ **2019**, 110, 1-8. [link](https://doi.org/10.1016/j.eurpolymj.2018.10.045) <br>
-...and more.
+Other published paper can be found via Google Scholar or my CV.
 
