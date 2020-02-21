@@ -18,7 +18,8 @@ Besides physical chemistry, I am also interested in modern technologies such as 
 ## Research Projects
 <img src="fig/jpcc2019.jpeg" align="right" height="123" width="196" >
 
-
+<br>
+<br>
 Sodium halides adsorption at water/α-alumina(0001) interfaces <br>
  [link to the paper](https://doi.org/10.1021/acs.jpcc.9b03054) <br>
 
