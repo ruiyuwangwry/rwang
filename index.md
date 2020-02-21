@@ -23,7 +23,8 @@ Besides physical chemistry, I am also interested in modern technologies such as 
 Sodium halides adsorption at water/α-alumina(0001) interfaces <br>
  [link to the paper](https://doi.org/10.1021/acs.jpcc.9b03054) <br>
 
-
+<br>
+<br>
 <img src="fig/jpcl22019.jpeg" align="right" height="137" width="141" >
 <br>
 Calculation of bulk water pKa using the SCAN functional <br>
