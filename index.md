@@ -16,7 +16,7 @@ Besides physical chemistry, I am also interested in modern technologies such as 
 [Full CV](cv2020_ruiyu.pdf)
 
 ## Research Projects
-<img src="fig/jpcc2019.jpeg" align="left" height="123" width="196" >
+<img src="fig/jpcc2019.jpeg" align="right" height="123" width="196" >
 
 <br>
 &nbsp;Sodium halides adsorption at water/α-alumina(0001) interfaces <br>
@@ -25,13 +25,11 @@ Besides physical chemistry, I am also interested in modern technologies such as 
 <br>
 <br>
 
-<img src="fig/jpcl22019.jpeg" align="left" height="137" width="141" >
+<img src="fig/jpcl22019.jpeg" align="right" height="137" width="141" >
 
 <br>
 &nbsp;Calculation of bulk water pKa using the SCAN functional <br>
  [link to the paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.9b02913) <br>
-<br>
-<br>
 <br>
 
 ## Publications 
