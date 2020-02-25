@@ -29,6 +29,7 @@ Sodium halides adsorption at water/α-alumina(0001) interfaces <br>
 <br>
 Calculation of bulk water pKa using the SCAN functional <br>
  [link to the paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.9b02913) <br>
+ <br>
 
 
 ## Publications 
