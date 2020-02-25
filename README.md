@@ -1,3 +1,3 @@
 # My website
-click this:<br>
+<br>
 [https://ruiyuwangwry.github.io/rwang/](https://ruiyuwangwry.github.io/rwang/)
